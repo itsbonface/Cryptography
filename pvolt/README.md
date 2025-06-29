@@ -24,13 +24,15 @@ For those with higher expectation, this was created for educational purposes by 
 ## Screenshots  
 ![pvolt1](https://github.com/user-attachments/assets/1e09c9dd-e176-4a2d-badb-aa67478a5762)
 ![pvolt2](https://github.com/user-attachments/assets/10f3af6c-5d63-4e84-8030-7d25a22b2fde)
-Cool, RIGHT?!! **NO**, at least not yet until version 300.0
+
+Cool, RIGHT? **NO**!! Well, not yet until version 4.0
 
 ## Security Tips (Because "password123" is not a good password)  
 
 - **Use a strong master password** – If your password is "12345", we need to talk.
 - **Don’t reuse passwords** – One leak shouldn’t sink your entire digital ship.  
-- **Change passwords periodically** – Like you know, but less awkward.  
+- **Change passwords periodically** – More or less like toothbrush.
+- **Stay updated** - get to know what's popping in the realm of CyberSec not just for the vibes, but for '**something bigger than all of us**'.
 
 ## Installation  
 
@@ -49,8 +51,8 @@ Cool, RIGHT?!! **NO**, at least not yet until version 300.0
 
 ## Why Use This?  
 
-Well, you know; You don't trust any legacy software to manage your 'secrets' and stores a copy of them somewhere in the cloud so you decide to trust this random guy with his crappy scripts. Other than that:
-- **Encrypted storage** – Even if someone finds your file, they’ll need .  
+Well, you know; you don't trust any legacy software to manage your 'secrets' while storying a copy of themselves somewhere in the cloud, and so you decide to trust this random guy with his crappy scripts. Other than that:
+- **Encrypted storage** – Even if someone finds your file, they’ll need your private key or 1000 years to decipher.  
 - **Easy to use** – No PhD in cybersecurity required.  
 - **Open-source** – No shady business here. You just need to trust me.
 
