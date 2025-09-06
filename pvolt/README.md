@@ -51,7 +51,7 @@ Cool, RIGHT? **NO**!! Well, not yet until version 4.0
 
 ## Why Use This?  
 
-Well, you know; you don't trust any legacy software to manage your 'secrets' while storying a copy of themselves somewhere in the cloud, and so you decide to trust this random guy with his crappy scripts. Other than that:
+Well, you know; you don't trust any legacy software to manage your 'secrets' while storying a copy for themselves somewhere in the cloud, and so you decide to trust this random guy with his crappy scripts. Other than that:
 - **Encrypted storage** – Even if someone finds your file, they’ll need your private key or 1000 years to decipher.  
 - **Easy to use** – No PhD in cybersecurity required.  
 - **Open-source** – No shady business here. You just need to trust me.
